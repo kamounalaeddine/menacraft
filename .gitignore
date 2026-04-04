@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Résultats de détection
+result_*.json
+rapport_*.json
+hybrid_result_*.json
+description_output.json
+detection_result_*.json
+batch_results/
+
+# Images téléchargées temporaires
+temp_downloads/
+test_web_images/
+test_known_images/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset (décommenter si vous ne voulez pas versionner les images)
+# dataset/
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.webp
