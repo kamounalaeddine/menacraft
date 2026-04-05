@@ -1,0 +1,6 @@
+httpx
+openai
+pytesseract
+pillow
+google-genai
+requests

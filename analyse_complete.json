@@ -1,0 +1,20 @@
+{
+  "texte_ocr_space": "LIVE YOUR\nLIFE ON YOUR\nOWN TERMS\nYOIJR IVE، \r\nIOII?\\ ON IIFE \r\nOIPINTEIMS",
+  "texte_llava": "",
+  "texte_utilise": "LIVE YOUR\nLIFE ON YOUR\nOWN TERMS\nYOIJR IVE، \r\nIOII?\\ ON IIFE \r\nOIPINTEIMS",
+  "texte_reconstruit": "LIVE YOUR LIFE ON YOUR OWN TERMS",
+  "description_avancee": {
+    "type_contenu": "motivationnel",
+    "objectif": "motiver",
+    "audience_cible": "grand public",
+    "ton_style": "inspirant",
+    "message_cle": "Vivre sa vie selon ses propres termes",
+    "contexte_utilisation": "réseaux sociaux, affiche, site web",
+    "resume": "Le contenu est un message de motivation qui encourage les individus à prendre le contrôle de leur vie et à la vivre selon leurs propres termes. Il est probablement destiné à un large public et peut être utilisé sur différents supports de communication."
+  },
+  "langue": "anglais",
+  "est_logique": "OUI",
+  "explication": "Le texte reconstruit est clair et cohérent, et le message est facilement compréhensible. Les erreurs OCR ont été corrigées pour obtenir un texte propre et lisible.",
+  "source_principale": "OCR.space",
+  "image_highlighted": null
+}
